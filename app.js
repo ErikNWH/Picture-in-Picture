@@ -1,5 +1,5 @@
 const videoElement = document.getElementById('video');
-const button = document.getElementById('button');
+const button = document.getElementById('start');
 
 //  Prompt the user to select Media steam
 async function selectMediaStream() {
